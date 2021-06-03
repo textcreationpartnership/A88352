@@ -1,0 +1,861 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A list of the old and new regiments of horse and foot, under the command of the Right Honourable Robert Sidney Earle of Leicester, Viscount Lisle, Baron of Beachurst, &amp;c. Lord Lieutenant of the Kingdome of Ireland, and generall of his Majesties forces in the said kingdome, &amp;c.</title>
+         </titleStmt>
+         <extent>Approx. 18KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88352</idno><idno type="EEBO-CITATION">99871292</idno>
+  <idno type="VID">156753</idno>
+  <idno type="EEBO-PROQUEST">2240942164</idno>
+  
+            <idno type="STC">Wing L2480</idno>
+            <idno type="STC">Thomason E150_16</idno>
+            <idno type="STC">ESTC R212707</idno>
+            <idno type="PROQUEST">99871292</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871292e"/>
+            <note>(EEBO-TCP ; phase 2, no. A88352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156753)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E150[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A list of the old and new regiments of horse and foot, under the command of the Right Honourable Robert Sidney Earle of Leicester, Viscount Lisle, Baron of Beachurst, &amp;c. Lord Lieutenant of the Kingdome of Ireland, and generall of his Majesties forces in the said kingdome, &amp;c.</title>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Jun. 15. London, printed for T. Walkley,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Publication date from Wing.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History, Military --  Stuarts, 1603-1714 --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156753:1"/>
+            <p>A LIST OF THE OLD AND NEW REGIMENTS OF Horse and Foot, under the Command of the Right Honourable ROBERT SIDNEY EARLE OF <hi>LEICESTER,</hi> VISCOUNT Lisse, Baron of <hi>Beachurst,</hi> &amp;c.</p>
+            <p>Lord Liutenant of the Kingdome of <hi>Jreland,</hi> and Generall of his Majesties Forces in the said Kingdome, &amp;c.</p>
+            <figure>
+               <figDesc>Walkley's device(?)</figDesc>
+            </figure>
+            <p>
+               <hi>Jun.</hi> 15. <hi>London,</hi> printed for <hi>T. Walkley.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="list">
+            <pb facs="tcp:156753:2"/>
+            <pb facs="tcp:156753:2"/>
+            <head>A List of the Companies of the Old standing Army in IRELAND.</head>
+            <list>
+               <head>Horse.</head>
+               <item>LOrd Lieutenant</item>
+               <item>Earle of Ormond.</item>
+            </list>
+            <list>
+               <head>Horse. In Conaught.</head>
+               <item>Lord Dillon.</item>
+               <item>Lord Viscount VVilmot.</item>
+            </list>
+            <list>
+               <head>Horse. In Munster.</head>
+               <item>Sir VVilliam St. Leger</item>
+               <item>Lord Moore.</item>
+            </list>
+            <list>
+               <head>Horse. In Vlster.</head>
+               <item>Lord Grandison.</item>
+               <item>Cap. Arrhur Chichester</item>
+               <item>Lord Viscount Lecale</item>
+               <item>Sir George VVentworth</item>
+               <item>Sir John Borlace</item>
+            </list>
+            <list>
+               <head>In Vlster.</head>
+               <item>Lord Conway</item>
+               <item>Sir Adam Loftus.</item>
+               <item>Earle of Strafford.</item>
+            </list>
+            <list>
+               <head>New raised</head>
+               <item>Sir Thomas Lucas.</item>
+            </list>
+            <list>
+               <head>Foot, In Lemster</head>
+               <item>Lord Lieutenant</item>
+               <item>Sir Robert Farrer</item>
+               <item>Sir Thomas VVharton</item>
+               <item>Sir Arthur Loftus</item>
+               <item>Sir Fra. VVilloughby</item>
+               <item>Lord Docora</item>
+               <item>Lord Lambert</item>
+               <item>Sir Lorenzo C<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rey</item>
+               <item>Sir John Sherlocke</item>
+               <item>Sir George Hamilton</item>
+               <item>Cap. Iohn Ogle</item>
+               <item>Cap. Robert Biron</item>
+               <item>Cap Thomas Games</item>
+               <item>Sir Iohn Nettervil</item>
+               <item>Cap Thomas Rockley</item>
+               <item>Sir Iohn Gifford</item>
+               <item>Sir Arthur Blundell</item>
+               <item>Lord Esmond</item>
+            </list>
+            <list>
+               <head>Foot, In Munster</head>
+               <item>Lo. President of Munster</item>
+               <item>Lord Viscount Baltinglas</item>
+               <item>Capt. VVilliam VVenman</item>
+               <item>Capt. Ch. Price</item>
+            </list>
+            <list>
+               <head>Foot, In Conaught.</head>
+               <item>Lord President of Conaught</item>
+               <item>Earle of Clanrickard</item>
+               <item>Sir Fredericke Hamilton</item>
+               <item>Sir Charles Coot</item>
+               <item>Sir George St. George</item>
+               <item>Cap, Francis Butler</item>
+            </list>
+            <list>
+               <head>Foot, In Vlster</head>
+               <item>Lord Blaney</item>
+               <item>Sir Henry Tichborne</item>
+               <item>Sir John Vaughan</item>
+               <item>Sir VVilliam Steward</item>
+               <item>Sir Arthur Tirringham</item>
+               <item>Sir Robert Steward</item>
+               <item>Cap. George Blunt</item>
+               <item>Cap Robert Baily</item>
+               <item>Cap Chichester Fortescue</item>
+               <item>Sir Iohn Borlace</item>
+               <item>Cap William Billingsley</item>
+               <item>Cap Iohn Barry</item>
+            </list>
+            <div type="part">
+               <pb facs="tcp:156753:3"/>
+               <head>New Regiments received into pay.</head>
+               <list>
+                  <item>Lord Lieutenant</item>
+                  <item>
+                     <hi>The Fire-lockes</hi>
+                     <list>
+                        <item>C. Sanford</item>
+                        <item>C. Langley</item>
+                        <item>C. LLoyd.</item>
+                     </list>
+                  </item>
+                  <item>Lieutenant Colonell Monke</item>
+                  <item>Serjeant Major Warren</item>
+                  <item>Captaine Robert Turvill</item>
+                  <item>Cap: Disney</item>
+                  <item>Cap: Cope</item>
+                  <item>Cap: Thurland</item>
+                  <item>Cap: Atkins</item>
+                  <item>Cap: Washington.</item>
+                  <item>Cap: Gray</item>
+                  <item>Cap: Paramour</item>
+                  <item>Cap: Bois</item>
+                  <item>Cap, Moulsworth</item>
+               </list>
+               <list>
+                  <head>Lord President of Conaughts Regiment, <hi>1000</hi> men.</head>
+                  <item>Lord President of Conaught</item>
+                  <item>Lieutenant Colonel Kirke</item>
+                  <item>Serjeant Major Shipman</item>
+                  <item>Captaine Trafford</item>
+                  <item>Captaine Jones</item>
+                  <item>Captaine Stradling</item>
+                  <item>Captaine Thomas</item>
+                  <item>Captaine Sandys</item>
+                  <item>Captaine Tirringham</item>
+                  <item>Captaine Sir Charles Vaus</item>
+               </list>
+               <list>
+                  <head>Sir Fulke Hunks Regiment in in Munster, <hi>1000.</hi> men</head>
+                  <item>Sir Fulk Hunks Colonel</item>
+                  <item>Henry Tillier Lieut: Colonel</item>
+                  <item>Hamond Serjeant Major</item>
+                  <item>Captaine Greene</item>
+                  <item>Captaine Lord Brabson</item>
+                  <item>Captaine Maney</item>
+                  <item>Captaine Skinshey</item>
+                  <item>Captaine Loftus</item>
+                  <item>Captaine Wingfield</item>
+               </list>
+               <list>
+                  <head>Sir Michael Early's Regiment <hi>1000.</hi> Men.</head>
+                  <item>Sir Michael Early Colonell
+<list>
+                        <item>Gibs Lieut: Colonel</item>
+                        <item>Ashley Serjeant Major</item>
+                     </list>
+                  </item>
+                  <item>Captaine Ranger</item>
+                  <item>Captaine Barthu</item>
+                  <item>Capt. Sir William Bronkar</item>
+                  <item>Captaine Long</item>
+                  <item>Captaine Nichols</item>
+                  <item>Captaine King</item>
+               </list>
+               <list>
+                  <head>Colonel Cromwels Regiment</head>
+                  <item>Colonel Cromwell</item>
+                  <item>Roger Bradshaw Lieut: Col:
+<list>
+                        <item>Chichester Serjeant Maj.</item>
+                     </list>
+                  </item>
+                  <item>Ca. Robert Broughton</item>
+                  <item>Captaine Honywood</item>
+                  <item>Captaine Cromwell</item>
+                  <item>Captaine Lisle</item>
+                  <item>Captaine Bingley</item>
+                  <item>Cap<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>aine Edw: Broughton.</item>
+               </list>
+               <list>
+                  <head>Colonel Gibsons Regiment, <hi>1000.</hi> men.</head>
+                  <item>Captain Gibson Colonel</item>
+                  <item>Captain Paget Lieut: Colonel</item>
+                  <pb facs="tcp:156753:3"/>
+                  <item>Captaine Woodhouse Ser Maj.</item>
+                  <item>Capt: Vane Capt; Verney</item>
+                  <item>Capt. Croft Cap Nichols</item>
+                  <item>Cap Hippesley Cap Bidulph</item>
+                  <item>Captaine Congrave</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>For Ulster.</head>
+               <list>
+                  <head>Lord Viscount Conwayes Regi<g ref="char:EOLhyphen"/>ment, <hi>1000</hi> men</head>
+                  <item>Lord Viscount Conway Col.</item>
+                  <item>Lord Blaney Lieut: Col:</item>
+                  <item>George Blunt Serjeant Major</item>
+                  <item>Captaine Hercules Hunks</item>
+                  <item>
+                     <hi>C.</hi> Geo. Raveden, <hi>C.</hi> Theo. Jones</item>
+                  <item>
+                     <hi>C.</hi> w. Roulston, <hi>C.</hi> Io, Michael</item>
+                  <item>Captaine Perkins</item>
+               </list>
+               <list>
+                  <head>Sir Iohn Clotworths Regiment <hi>1000.</hi> men.</head>
+                  <item>Sir John Clotworthy Colonell</item>
+                  <item>Bolles Lieutenant Colonell</item>
+                  <item>Thomas Cook Serjeant Major</item>
+                  <item>Captaine Iames Clotworthy</item>
+                  <item>Captaine Leonard Lidcot</item>
+                  <item>
+                     <hi>C.</hi> Ellis <hi>C.</hi> Russell</item>
+                  <item>
+                     <hi>C,</hi> Oconelly <hi>C,</hi> Humfrayes</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>In Munster.</head>
+               <list>
+                  <head>Sir Charles Vavacers Regiment <hi>1000.</hi> men.</head>
+                  <item>Sir Ch. Vavacer Baronet Colo.</item>
+                  <item>Minne Lieutenant Colonel</item>
+                  <item>Applewood Ser. Maj.</item>
+                  <item>
+                     <hi>C.</hi> Howell <hi>C</hi> Wind</item>
+                  <item>
+                     <hi>C</hi> Chudleigh <hi>C</hi> Thornton</item>
+                  <item>
+                     <hi>C</hi> St. Leger <hi>C</hi> Barth Price.</item>
+               </list>
+               <list>
+                  <head>Sir W. Ogles Regim. <hi>1000.</hi> men</head>
+                  <item>Sir William Ogle Col.</item>
+                  <item>Francis Story Serjeant Maior.</item>
+                  <item>
+                     <hi>C</hi> Dover <hi>C</hi> Hall</item>
+                  <item>
+                     <hi>C</hi> Manwood <hi>C.</hi> Buller</item>
+                  <item>
+                     <hi>C</hi> Powell <hi>C</hi> Elliot</item>
+               </list>
+               <list>
+                  <head>Sir Iohn Paulets Regiment <hi>1000.</hi> men.</head>
+                  <item>Sir John Paulet colon.</item>
+                  <item>Braket Lievtenant col.</item>
+                  <item>Bointen Serjeant major</item>
+                  <item>
+                     <hi>C</hi> Roberts <hi>c.</hi> Codtington</item>
+                  <item>
+                     <hi>c.</hi> ccoper cap. chester</item>
+                  <item>cap. Pinchback, cap. Sheffield</item>
+               </list>
+               <list>
+                  <head>New Troopes levied in Munster</head>
+                  <item>Earle of Barrymore, Lord Dungarvan, Lord Inchguin, cap. Will. Iephron, Sir Will. Courtney.</item>
+               </list>
+               <list>
+                  <head>New Troops levied in Limster</head>
+                  <item>Sir cha, choot, cap. Armstrong</item>
+               </list>
+               <list>
+                  <head>Dotgeneir sent from England</head>
+                  <item>cap. Meyle, cap. Buckenfield</item>
+                  <item>cap. Adam Pate.</item>
+               </list>
+               <list>
+                  <head>Lord Viscount Lisles Regiment</head>
+                  <item>col. Lord Viscount Lisle</item>
+                  <item>Maj. Sir Ri. Greuvile K. &amp; Bar.</item>
+                  <item>cap. Vaughan, L. Digby of Ger,</item>
+                  <item>cap, Sidney, cap. Villiers, cap,</item>
+                  <item>Frances Palmes, cap. Marrow</item>
+                  <item>cap. Iohn Baker,</item>
+               </list>
+               <list>
+                  <head>Troopes attending the Scottish Army in Vlster.</head>
+                  <item>Sir VVil. Balfore Kt. com. Gen</item>
+                  <item>Major cap. Arthur chichester</item>
+                  <item>L. of Ardes, L, clanneboy, Sir</item>
+                  <item>Iames Mentgemery, cap. Hill,</item>
+                  <item>cap cole, Sir Robert Adare,</item>
+               </list>
+            </div>
+         </div>
+         <div type="text">
+            <pb facs="tcp:156753:4"/>
+            <head>A List of the Field-Officers chosen and appointed for the Irish Expedition, by the Committee at Guild-hall London, for the Re<g ref="char:EOLhyphen"/>giments of 5000. Foot and 500. Horse, under the command of <hi>Philip</hi> Lord <hi>Wharton.</hi>
+            </head>
+            <list>
+               <head>Troops of Horse. Colonell Generalls Troop.</head>
+               <item>
+                  <hi>CAptain</hi> Ralfe Whistler.</item>
+               <item>
+                  <hi>Cornet</hi> Peter Wate.</item>
+               <item>
+                  <hi>Quartermaster</hi> Nicholas Batterby.
+<list>
+                     <item>Conyers Cooper.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Corporals.</hi>
+                  <list>
+                     <item>Bartho. Iohnson.</item>
+                     <item>Ralph Henery.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Second Troop</hi> Lord Broghill.</item>
+               <item>
+                  <hi>Lievtenant</hi> Iohn Allen.</item>
+               <item>
+                  <hi>Cornet</hi> Cecill Ashcough.</item>
+               <item>
+                  <hi>Quartermaster</hi> Tho. Hudson.</item>
+               <item>
+                  <hi>Corporals</hi> Geo. Staples.</item>
+               <item>
+                  <hi>Corporals</hi> Robert Bennet.</item>
+               <item>
+                  <hi>Corporals</hi> Thomas Allen.</item>
+               <item>
+                  <hi>Third troop</hi> Sir Faithfull Fortescue.</item>
+               <item>
+                  <hi>Lievtenant</hi> Francis Dover</item>
+               <item>
+                  <hi>Cornet</hi> Tho. Fortescue.</item>
+               <item>
+                  <hi>Quartermaster</hi>
+                  <list>
+                     <item>Io. Coyshe.</item>
+                     <item>Jo Vangorich.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Corporals</hi>
+                  <list>
+                     <item>Jo. Marshall.</item>
+                     <item>Ralph Walcot.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fourth troop</hi> Liev. Colonel Io. Hurry.</item>
+               <item>
+                  <hi>Lievten<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nt</hi> William Mercer.</item>
+               <item>
+                  <hi>Cornet</hi> Sedescue.</item>
+               <item>
+                  <hi>Quartermaster</hi>
+                  <list>
+                     <item>Io. Pearne.</item>
+                     <item>Ralph Vickerman.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Corporals</hi> Rich. Whymper.
+<list>
+                     <item>Will. Crane.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fifth troop</hi> Alexander Nayrne.</item>
+               <item>
+                  <hi>Lievtenant</hi> William Hyde.</item>
+               <item>
+                  <hi>Cornet</hi> Marmaduke Cooper.</item>
+               <item>
+                  <hi>Quartermaster</hi>
+                  <list>
+                     <item>Francis Fook.</item>
+                     <item>Nath. Walmsley.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Corporals</hi>
+                  <list>
+                     <item>Hugh Farr.</item>
+                     <item>Hen. Ballard <hi>his Ensigne.</hi>
+                     </item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Sixth troop</hi> Io. Trenchard.</item>
+               <item>
+                  <hi>Lievt<gap reason="illegible" resp="#keyers" extent="5 letters">
+                        <desc>•••••</desc>
+                     </gap>
+                  </hi> Ad<gap reason="illegible" resp="#keyers" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <gap reason="illegible" resp="#keyers" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap>
+               </item>
+               <item>
+                  <hi>Cornet</hi> Io. Hyde.</item>
+               <item>
+                  <hi>Quartermaster</hi>
+                  <list>
+                     <item>Francis Fook.</item>
+                     <item>Jo. Freake.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Corporals</hi>
+                  <list>
+                     <item>Io. Starkey.</item>
+                     <item>Tho. Gwalter.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Seventh troop</hi> William St. Leger.</item>
+               <item>
+                  <hi>Lievtenant</hi>
+                  <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. Leventhorp.</item>
+               <item>
+                  <hi>Cornet</hi> Skrynsheere.</item>
+               <item>
+                  <hi>Quartermaster</hi>
+                  <list>
+                     <item>Philip Vanderhiden.</item>
+                     <item>Ed. Gray.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Corporals</hi>
+                  <list>
+                     <item>Nicho Phipp.</item>
+                     <item>Robert Wood.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>Foot Companies.</head>
+               <item>
+                  <hi>COlonell Generall.</hi>
+                  <list>
+                     <item>
+                        <hi>His Captain</hi> Edward Massy.</item>
+                     <item>
+                        <hi>His Ensigne</hi> Oliver Cromwell.</item>
+                     <item>
+                        <hi>Lievtenant Colonell and Serieant Maior Generall</hi> Ieremy Horton.</item>
+                     <item>
+                        <hi>His Lievtenant</hi> Tho. Browne.</item>
+                     <item>
+                        <hi>His Ensigne</hi> Ed. Greene.</item>
+                  </list>
+               </item>
+               <item>Serjeant Major Owen Parry,
+<list>
+                     <item>His lieutenant Ed. Browne,</item>
+                     <item>His Ensigne Rob. Hewes,</item>
+                  </list>
+               </item>
+               <item>First Captaine Vincent Calmady.
+<list>
+                     <item>his lieutenant Edward Tyrer.</item>
+                     <item>his Ensigne Richard Bland.</item>
+                  </list>
+               </item>
+               <item>Second Captaine Robert long.
+<list>
+                     <item>his lieutenant Tho. Allanby.</item>
+                     <item>his Ensigne Roger Moore,</item>
+                  </list>
+               </item>
+               <item>Third captaine Henry Carew.
+<list>
+                     <item>his lieutenant Charles Holcroft.</item>
+                     <item>his Ensigne William heyden.</item>
+                  </list>
+               </item>
+               <item>Fourth captaine Henry Skipwith.
+<list>
+                     <item>his lieutenant Joh. Ivey.</item>
+                     <item>his Ensigne Oliver St. John,</item>
+                  </list>
+               </item>
+               <item>Fifth capt. of Firelocks Elias Struice
+<list>
+                     <item>his lieutenant Ed. Grav.</item>
+                  </list>
+               </item>
+               <pb facs="tcp:156753:4"/>
+               <item>Second Colonel lord Kerry.
+<list>
+                     <item>his Captaine Robert Hamond.</item>
+                     <item>his Ensigne Richard Bagot.</item>
+                  </list>
+               </item>
+               <item>Lieutenant Colonell Henry Shelley.
+<list>
+                     <item>his lievtenant Io. Ramsford.</item>
+                     <item>his Ensigne Jo Ashfield.</item>
+                  </list>
+               </item>
+               <item>Serjeant Major Daniel Goodrick.
+<list>
+                     <item>his lieutenant Geo. lower.</item>
+                     <item>his Ensigne Charles Blount.</item>
+                  </list>
+               </item>
+               <item>First captaine Charles Dawson.
+<list>
+                     <item>his lieutenant Philip Meautas.</item>
+                     <item>his Ensigne Jacob Stringer.</item>
+                  </list>
+               </item>
+               <item>Second Captain Herbert Blankchard
+<list>
+                     <item>his lieutenant Morgan Tinny.</item>
+                     <item>his ensigne Christopher chudley.</item>
+                  </list>
+               </item>
+               <item>Third cap. Agmondisham Muschamp
+<list>
+                     <item>his Lieutenant William Dothwaite</item>
+                     <item>his Ensigne Gervase Brach.</item>
+                  </list>
+               </item>
+               <item>Fourth cap. Paul Wats.
+<list>
+                     <item>his lieutenant Andr. Manwarring.</item>
+                     <item>his Ensigne Tho. Barriffe.</item>
+                  </list>
+               </item>
+               <item>Fifth capt. for Firelocks Wil. Lower.
+<list>
+                     <item>his lieutenant Redman.</item>
+                     <item>his Ensigne Jo. Raymond.</item>
+                  </list>
+               </item>
+               <item>Third Colonell Tho. Ballard.
+<list>
+                     <item>his lieutenant Tho. Grover,</item>
+                     <item>his Ensigne leonard Morton.</item>
+                  </list>
+               </item>
+               <item>Lieutenant Colonel Sir Edw, Denny
+<list>
+                     <item>his Lieutenant Ed, Odingsels,</item>
+                     <item>his Ensigne William Garfoot,</item>
+                  </list>
+               </item>
+               <item>Serjeant Maior Francis Martin
+<list>
+                     <item>his lieutenant Rob, Noyce,</item>
+                     <item>his Ensigne Io, Hardy,</item>
+                  </list>
+               </item>
+               <item>First captaine Cap. Primrose,
+<list>
+                     <item>his Lieutenant Edward Norbury</item>
+                     <item>his Ensigne William Fowlis.</item>
+                  </list>
+               </item>
+               <item>Second captaine Edward Allen,
+<list>
+                     <item>his lieutenant Fra. Bowyer,</item>
+                     <item>his Ensign Robert Goodwin</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Third Capten</hi> Fran. Fook.
+<list>
+                     <item>
+                        <hi>his Lievtenant</hi> Tho. Nayerne.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Hen. Higgins.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fourth Captain</hi> Thomas Middleton
+<list>
+                     <item>
+                        <hi>his Lievtenant</hi> Io. Lookar</item>
+                     <item>
+                        <hi>his Ensigne</hi> Charles Parker.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fif<gap reason="illegible" resp="#keyers" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h Capt. firelocks</hi> Peter Nursord.
+<list>
+                     <item>
+                        <hi>his Lievtenant</hi> Robert Davis.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Hen. Cope.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fourth</hi> Charles Essex.
+<list>
+                     <item>
+                        <hi>his Captain</hi> Fran. Hall.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Io. Shipman.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lievtenant Col.</hi> Adam Cunningham.
+<list>
+                     <item>
+                        <hi>his Lievtenant</hi> Peter Crispe.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Leonard Hawkins.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Serieant Maior</hi> Tho. Ogle.
+<list>
+                     <item>
+                        <hi>his Lievtenant</hi> Iames Webb.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Richard Osborne.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>First Captain</hi> William Roberts.
+<list>
+                     <item>
+                        <hi>his Lievtenant</hi> Ambrose Tindall.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Io. Watkins,</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Second Captain</hi> George Narrow.
+<list>
+                     <item>
+                        <hi>his Lievtenant</hi> Edward Banwell.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Tom. Paramoure.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Third Captaine</hi> Constance Ferrer.
+<list>
+                     <item>
+                        <hi>his Lievtenant</hi> William Hewet.</item>
+                     <item>
+                        <hi>his Ensine</hi> Io. Hemings,</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fourth Captain</hi> Sam, Loftus.
+<list>
+                     <item>
+                        <hi>his lievtenant</hi> Iames Barrell.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Fran. Butler.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fifth Capt. for Fire-locks.</hi> Iohn iinkins,
+<list>
+                     <item>
+                        <hi>his lievtenant</hi> Bartho, Elecot,</item>
+                     <item>
+                        <hi>his Ensigne</hi> Mr. Wayte.</item>
+                  </list>
+               </item>
+               <pb facs="tcp:156753:5"/>
+               <item>
+                  <hi>Fifth Colonell</hi> Will. Bamfield.
+<list>
+                     <item>
+                        <hi>his Captane</hi> Sam. Price.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Casworth.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Lieutenant Colonel</hi> Wagstaffe.
+<list>
+                     <item>
+                        <hi>his Lieutenant</hi> Tho. Coleby.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Robert Nelson.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Serjeant Major</hi> G. Hutchinson.
+<list>
+                     <item>
+                        <hi>his Lieutenant</hi> Jo. Minshaw.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Will. Bourcher.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>First Capt.</hi> Io. Banfield.
+<list>
+                     <item>
+                        <hi>his Lieutenant</hi> Rich. Cingley.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Ralph Garts.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Second Capt.</hi> Horatio Carey.
+<list>
+                     <item>
+                        <hi>his Lieutenant</hi> Allen Povey.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Humfrey Burton</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Third Capt.</hi> Robert Baker.
+<list>
+                     <item>
+                        <hi>his Lieutenant</hi> Mich. Bland.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Io. Rose.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fourth captaine</hi> Christo. Burgh.
+<list>
+                     <item>
+                        <hi>his Lieutenant</hi> Tho. Hoare.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Sam. Manaton.</item>
+                  </list>
+               </item>
+               <item>
+                  <hi>Fifth Ca. for fire locks</hi> Ri. Benson
+<list>
+                     <item>
+                        <hi>his Lieutenant</hi> Tho. Latimer.</item>
+                     <item>
+                        <hi>his Ensigne</hi> Io. Browne.</item>
+                  </list>
+               </item>
+            </list>
+            <trailer>FINJS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
